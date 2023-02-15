@@ -1,0 +1,23 @@
+{
+  "name": "monito-page",
+  "version": "1.0.0",
+  "description": "Page template for practicing layout, creating and using third-party components, and developing skills in working with project builders",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\"",
+    "dev": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chezeee/Lesson18-project1.git"
+  },
+  "author": "Ilya Yalymov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chezeee/Lesson18-project1/issues"
+  },
+  "homepage": "https://github.com/chezeee/Lesson18-project1#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
